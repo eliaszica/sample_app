@@ -1,0 +1,167 @@
+!C:='C:\Windows\System32'
+ALLUSERSPROFILE='C:\ProgramData'
+APPDATA='C:\Users\Elias\AppData\Roaming'
+ARCH=i686
+B='\033[01;34m'
+BASH=/bin/sh
+BASH_ARGC=()
+BASH_ARGV=()
+BASH_LINENO=()
+BASH_SOURCE=()
+BASH_VERSINFO=([0]="3" [1]="1" [2]="0" [3]="1" [4]="release" [5]="i686-pc-msys")
+BASH_VERSION='3.1.0(1)-release'
+COLUMNS=80
+COMMONPROGRAMFILES='C:\Program Files (x86)\Common Files'
+COMMONPROGRAMFILES(X86)='C:\Program Files (x86)\Common Files'
+COMMONPROGRAMW6432='C:\Program Files\Common Files'
+COMPUTERNAME=PCPAPA
+COMP_WORDBREAKS=' 	
+"'\''@><=;|&(:'
+COMSPEC='C:\Windows\system32\cmd.exe'
+CPU=unknown
+DIRSTACK=()
+EUID=500
+FP_NO_HOST_CHECK=NO
+GIT='git version 1.9.2.msysgit.0'
+GNUPGHOME=/c/DESENV/.gnupg
+GROUPS=()
+HEROKUPATH='C:\Program Files (x86)\Heroku'
+HISTFILE=/c/DESENV/.bash_history
+HISTFILESIZE=500
+HISTSIZE=500
+HOME=/c/DESENV
+HOMEDRIVE=C:
+HOMEPATH='\Users\Elias'
+HOSTNAME=PCPAPA
+HOSTTYPE=i686
+IFS=' 	
+'
+INPUTRC=/etc/inputrc
+KERNEL='1.0.12(0.46/3/2)'
+LESS=-FRSX
+LESSCHARSET=utf-8
+LINES=25
+LOCALAPPDATA='C:\Users\Elias\AppData\Local'
+LOGNAME=Elias
+LOGONSERVER='\\PCPAPA'
+MACHTYPE=i686-pc-msys
+MAILCHECK=60
+MAKE_MODE=unix
+MOZ_PLUGIN_PATH='C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\'
+MSYSTEM=MINGW32
+NUMBER_OF_PROCESSORS=8
+OLDPWD=/c/DESENV/ror
+OPTERR=1
+OPTIND=1
+OS=Windows_NT
+OSTYPE=msys
+PATH='/c/DESENV/bin:.:/usr/local/bin:/mingw/bin:/bin:/bin:/c/Program Files (x86)/Intel/iCLS Client/:/c/Program Files/Intel/iCLS Client/:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0/:/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files/Intel/Intel(R) Management Engine Components/IPT:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT:/c/Program Files (x86)/Windows Live/Shared:/c/Program Files (x86)/MySQL/MySQL Utilities 1.3.6/:/c/Program Files (x86)/Calibre2/:/c/Program Files/nodejs/:/cmd:/c/Program Files (x86)/Heroku/bin:/c/Ruby193/bin:/c/DESENV/Ruby:/c/Users/Elias/AppData/Roaming/npm'
+PATHEXT='.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW'
+PIPESTATUS=([0]="130")
+PLINK_PROTOCOL=ssh
+POSIXLY_CORRECT=y
+PPID=6772
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER='Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3c03
+PROGRAMDATA='C:\ProgramData'
+PROGRAMFILES='C:\Program Files (x86)'
+PROGRAMFILES(X86)='C:\Program Files (x86)'
+PROGRAMW6432='C:\Program Files'
+PROMPT='$P$G'
+PS1='\[\033]0;$MSYSTEM:${PWD//[^[:ascii:]]/?}\007\]\n\[\033[32m\]\u@\h \[\033[33m\]\w$(__git_ps1)\[\033[0m\]\n$ '
+PS2='> '
+PS4='+ '
+PSMODULEPATH='C:\Windows\system32\WindowsPowerShell\v1.0\Modules\'
+PUBLIC='C:\Users\Public'
+PWD=/c/DESENV/ror/sample_app
+R='\033[01;31m'
+RAILS=
+RUBY='ruby 1.9.3p545 (2014-02-24) [i386-mingw32]'
+SESSIONNAME=Console
+SHELL=/bin/sh
+SHELLOPTS=braceexpand:emacs:hashall:histexpand:history:interactive-comments:monitor:posix
+SHLVL=2
+SYSTEMDRIVE=C:
+SYSTEMROOT='C:\Windows'
+TEMP=/tmp
+TERM=cygwin
+TMP=/tmp
+UID=500
+USERDOMAIN=PCPAPA
+USERDOMAIN_ROAMINGPROFILE=PCPAPA
+USERNAME=Elias
+USERPROFILE='C:\Users\Elias'
+W='\033[01;37m'
+WINDIR='C:\Windows'
+X='\033[00;37m'
+Y='\033[01;33m'
+_=rsa
+__git_all_commands=
+__git_diff_algorithms='myers minimal patience histogram'
+__git_diff_common_options='--stat --numstat --shortstat --summary
+			--patch-with-stat --name-only --name-status --color
+			--no-color --color-words --no-renames --check
+			--full-index --binary --abbrev --diff-filter=
+			--find-copies-harder
+			--text --ignore-space-at-eol --ignore-space-change
+			--ignore-all-space --exit-code --quiet --ext-diff
+			--no-ext-diff
+			--no-prefix --src-prefix= --dst-prefix=
+			--inter-hunk-context=
+			--patience --histogram --minimal
+			--raw --word-diff
+			--dirstat --dirstat= --dirstat-by-file
+			--dirstat-by-file= --cumulative
+			--diff-algorithm=
+'
+__git_fetch_options='
+	--quiet --verbose --append --upload-pack --force --keep --depth=
+	--tags --no-tags --all --prune --dry-run
+'
+__git_format_patch_options='
+	--stdout --attach --no-attach --thread --thread= --no-thread
+	--numbered --start-number --numbered-files --keep-subject --signoff
+	--signature --no-signature --in-reply-to= --cc= --full-index --binary
+	--not --all --cover-letter --no-prefix --src-prefix= --dst-prefix=
+	--inline --suffix= --ignore-if-in-upstream --subject-prefix=
+	--output-directory --reroll-count --to= --quiet --notes
+'
+__git_log_common_options='
+	--not --all
+	--branches --tags --remotes
+	--first-parent --merges --no-merges
+	--max-count=
+	--max-age= --since= --after=
+	--min-age= --until= --before=
+	--min-parents= --max-parents=
+	--no-min-parents --no-max-parents
+'
+__git_log_date_formats='relative iso8601 rfc2822 short local default raw'
+__git_log_gitk_options='
+	--dense --sparse --full-history
+	--simplify-merges --simplify-by-decoration
+	--left-right --notes --no-notes
+'
+__git_log_pretty_formats='oneline short medium full fuller email raw format:'
+__git_log_shortlog_options='
+	--author= --committer= --grep=
+	--all-match
+'
+__git_merge_options='
+	--no-commit --no-stat --log --no-log --squash --strategy
+	--commit --stat --no-squash --ff --no-ff --ff-only --edit --no-edit
+'
+__git_merge_strategies=
+__git_mergetools_common='diffuse diffmerge ecmerge emerge kdiff3 meld opendiff
+			tkdiff vimdiff gvimdiff xxdiff araxis p4merge bc3 codecompare
+'
+__git_porcelain_commands=
+__git_printf_supports_v=yes
+__git_send_email_confirm_options='always never auto cc compose'
+__git_send_email_suppresscc_options='author self cc bodycc sob cccmd body all'
+__git_whitespacelist='nowarn warn error error-all fix'
+i='/etc/profile.d/*.sh'
+magicfile='C:/Program Files (x86)/Git/mingw/share/misc/magic.mgc'
