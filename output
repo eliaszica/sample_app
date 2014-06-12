@@ -1,0 +1,18 @@
+F
+
+Failures:
+
+  1) Static pages Home page should have the content 'Sample App'
+     Failure/Error: expect(page).to have_content('Sample App')
+       expected #has_content?("Sample App") to return true, got false
+     # ./spec/requests/static_pages_spec.rb:9:in `block (3 levels) in <top (required)>'
+
+Finished in 0.04303 seconds
+1 example, 1 failure
+
+Failed examples:
+
+rspec ./spec/requests/static_pages_spec.rb:7 # Static pages Home page should have the content 'Sample App'
+
+Randomized with seed 59090
+
