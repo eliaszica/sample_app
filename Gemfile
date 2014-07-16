@@ -6,7 +6,8 @@ ruby '1.9.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 # 4.0.8 é a versão recomendada pelo railstutorial
 gem 'rails', '4.0.8'
-# Railstutorial/sample_app adota PostgreSQL para dev,test e prod
+# Railstutorial/sample_app adota PostgreSQL para prod; então resolvi adotar
+# para test e desenv também, para teste este banco de dados.
 gem 'pg', '0.15.1'
 # Use sqlite3 as the database for Active Record
 group :development, :test do
